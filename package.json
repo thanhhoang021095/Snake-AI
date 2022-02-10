@@ -6,7 +6,7 @@
   "dependencies": {
     "d3": "^4.9.1",
     "neataptic": "^1.2.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
