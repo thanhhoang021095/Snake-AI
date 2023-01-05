@@ -13,7 +13,7 @@
   "devDependencies": {
     "create-react-app-sass": "^1.1.0",
     "gh-pages": "^1.0.0",
-    "react-scripts": "1.0.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts-with-sass start",
